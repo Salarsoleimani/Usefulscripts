@@ -57,5 +57,5 @@ Suggestions/improvements [welcome](https://github.com/Salarsoleimani/Usefulscrip
 
 ## Thanks to…
 
-* [Ash’s dotfiles](https://github.com/ashleynolan/dotfiles)
+* [Mathias’s dotfiles](https://github.com/mathiasbynens/dotfiles)
 * anyone who [contributed a patch](https://github.com/salarsoleimani/Usefulscripts/contributors) or [made a helpful suggestion](https://github.com/salarsoleimani/Usefulscripts/issues)

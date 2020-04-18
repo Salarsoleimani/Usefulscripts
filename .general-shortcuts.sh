@@ -1,5 +1,4 @@
-alias general='curl general.salarsoleimani.com'
-
+# will first make a new directory with the name new-folder and then cd (change directory) into the newly created directory.
 function mkd() {
     mkdir -p "$@" && cd "$@"
 }
