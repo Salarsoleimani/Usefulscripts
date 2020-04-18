@@ -1,5 +1,4 @@
-alias xcode='curl xcode.salarsoleimani.com'
-
+# This makes maintenance of your shell scripts easier, in the same way that separating out files when coding in any language helps structure and organisation.
 cleandd() {
     rm -rf ~/Library/Developer/Xcode/DerivedData
     echo "Removed all derived data."
